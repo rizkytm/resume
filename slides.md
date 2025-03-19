@@ -19,7 +19,7 @@ css: unocss
 <div class="mt-4 flex justify-center">
   <img
     class="w-40 h-40 rounded-full border-2 border-gray-200 shadow-lg"
-    src="/assets/images/profile.jpg"
+    src="/profile.jpg"
     alt="Rizky Tria Meditanala"
   />
 </div>
@@ -117,7 +117,7 @@ layout: two-cols
 
 ---
 layout: image-right
-image: /assets/images/ss-m1.png
+image: /ss-m1.png
 backgroundSize: contain
 ---
 
@@ -133,7 +133,7 @@ Online Reseller Platform with affiliate feature. Integrated with RajaOngkir API,
 
 ---
 layout: image-right
-image: /assets/images/ss-m1a.png
+image: /ss-m1a.png
 backgroundSize: contain
 ---
 
@@ -149,7 +149,7 @@ Online learning platform for member of M1. Learning materials are available in v
 
 ---
 layout: image-right
-image: /assets/images/ss-apps-mr.png
+image: /ss-apps-mr.png
 backgroundSize: contain
 ---
 
@@ -165,7 +165,7 @@ An application which provides various contents of Merry Riana. The contents are 
 
 ---
 layout: image-right
-image: /assets/images/ss-ev-2.png
+image: /ss-ev-2.png
 backgroundSize: contain
 ---
 
@@ -181,7 +181,7 @@ Online based platform for self development with learning video, pdf handout and 
 
 ---
 layout: image-right
-image: /assets/images/ss-evkids.png
+image: /ss-evkids.png
 backgroundSize: contain
 ---
 
@@ -197,7 +197,7 @@ Online based platform for self development for kids & teens with learning video,
 
 ---
 layout: image-right
-image: /assets/images/ss-if.png
+image: /ss-if.png
 backgroundSize: contain
 ---
 
@@ -213,7 +213,7 @@ Landing Page & Dashboard for Event Ticketing System for InspiraFest Onsite and O
 
 ---
 layout: image-right
-image: /assets/images/ss-ost.png
+image: /ss-ost.png
 backgroundSize: contain
 ---
 
@@ -229,7 +229,7 @@ Reseller platform which provides products from Supplier for Sellers. Worked on v
 
 ---
 layout: image-right
-image: /assets/images/ss-ord.png
+image: /ss-ord.png
 backgroundSize: contain
 ---
 
@@ -245,7 +245,7 @@ Platform which provides online store where seller can sell products using checko
 
 ---
 layout: image-right
-image: /assets/images/linkedin-clone.png
+image: /linkedin-clone.png
 backgroundSize: contain
 ---
 
